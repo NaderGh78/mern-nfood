@@ -38,8 +38,9 @@ connectDB();
 
 // middleware
 const corsOptions = {
-  origin: "nfood-mern-project.vercel.app", // frontend URI (ReactJS)
-}
+  origin: "https://nfood-mern-project.vercel.app", // لازم يكون كامل
+  credentials: true
+};
 
 // app.use(cors(corsOptions));
 
