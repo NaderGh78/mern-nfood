@@ -8,18 +8,6 @@ Includes an Admin Dashboard to manage the system.
 
 ---
 
-Screenshots
-
-Here are some key screenshots of the project:
-
-![login](./screenshots/login.png)
-![menu page](./screenshots/menu_page.png)  
-![product card](./screenshots/product_card.PNG)
-![product details](./screenshots/product_details.png)
-![search page](./screenshots/search_page.png)
-![cart page](./screenshots/cart_page.png)
-![sidebar](./screenshots/sidebar.png)
-
 For all other screenshots, see the full collection here:
 [All screenshots](./screenshots)
 
